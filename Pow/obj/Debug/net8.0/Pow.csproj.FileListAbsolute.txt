@@ -1,0 +1,14 @@
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\Pow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\Pow.AssemblyInfoInputs.cache
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\Pow.AssemblyInfo.cs
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\Pow.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\Pow\Pow\bin\Debug\net8.0\Pow.exe
+C:\Users\Анна\source\repos\Pow\Pow\bin\Debug\net8.0\Pow.deps.json
+C:\Users\Анна\source\repos\Pow\Pow\bin\Debug\net8.0\Pow.runtimeconfig.json
+C:\Users\Анна\source\repos\Pow\Pow\bin\Debug\net8.0\Pow.dll
+C:\Users\Анна\source\repos\Pow\Pow\bin\Debug\net8.0\Pow.pdb
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\Pow.dll
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\refint\Pow.dll
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\Pow.pdb
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\Pow.genruntimeconfig.cache
+C:\Users\Анна\source\repos\Pow\Pow\obj\Debug\net8.0\ref\Pow.dll
