@@ -1,0 +1,14 @@
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\bin\Debug\net8.0\ConsoleApp70.exe
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\bin\Debug\net8.0\ConsoleApp70.deps.json
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\bin\Debug\net8.0\ConsoleApp70.runtimeconfig.json
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\bin\Debug\net8.0\ConsoleApp70.dll
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\bin\Debug\net8.0\ConsoleApp70.pdb
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ConsoleApp70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ConsoleApp70.AssemblyInfoInputs.cache
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ConsoleApp70.AssemblyInfo.cs
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ConsoleApp70.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ConsoleApp70.dll
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\refint\ConsoleApp70.dll
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ConsoleApp70.pdb
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ConsoleApp70.genruntimeconfig.cache
+C:\Users\Анна\source\repos\ConsoleApp70\ConsoleApp70\obj\Debug\net8.0\ref\ConsoleApp70.dll
